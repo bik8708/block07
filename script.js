@@ -12,3 +12,4 @@ console.log(firstNum + "-" + secondNum + "-" + thirdNum);
 alert(
   "You have received this message because you have been chosen to open an important vault. Here is the secret combination: 10-40-39"
 );
+alert(`${firstNum}-${secondNum}-${thirdNum}`);
